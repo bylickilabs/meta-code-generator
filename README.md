@@ -1,6 +1,9 @@
 # 🧠 META CODE GENERATOR  
 A professional Multilingual Cyberpunk-styled web tool to generate complete HTML meta data blocks automatically.
 
+| <img width="1280" height="640" alt="meta" src="https://github.com/user-attachments/assets/d45d68be-08ae-479d-b329-b6dee45fb761" /> | 
+|---|
+
 ---
 
 ## Beschreibung (German)
