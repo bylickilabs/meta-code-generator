@@ -12,7 +12,7 @@ A professional Multilingual Cyberpunk-styled web tool to generate complete HTML 
 Durch einfaches Ausfüllen der Felder werden sofort gültige `<head>`-Sektionen generiert — inklusive Favicon, Open-Graph-Daten und mehr.  
 
 Das Projekt ist vollständig **zweisprachig (Deutsch/Englisch)**, **responsiv** und im **neon-inspirierten Cyberpunk-Design** mit **Bootstrap 5** realisiert.  
-Zudem ist ein **animierter GitHub-Button** integriert, der direkt auf dein Profil verweist.
+Zudem ist ein **animierter GitHub-Button** integriert, der direkt auf mein Profil verweist.
 
 ---
 
@@ -22,7 +22,7 @@ Zudem ist ein **animierter GitHub-Button** integriert, der direkt auf dein Profi
 By filling in simple input fields, you instantly generate valid `<head>` sections — including favicon, Open Graph, and SEO-optimized tags.  
 
 The tool is fully **bilingual (German/English)**, **responsive**, and designed in a **neon cyberpunk aesthetic** using **Bootstrap 5**.  
-An **animated GitHub button** connects directly to your GitHub profile.
+An **animated GitHub button** connects directly to my GitHub profile.
 
 ---
 
