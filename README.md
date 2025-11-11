@@ -40,7 +40,7 @@ An **animated GitHub button** connects directly to your GitHub profile.
 
 ## 🚀 Live-Demo
 
-> [🌐 Öffne das Projekt im Browser](https://bylickilabs.github.io/meta-code-generator)
+> [🌐 Internal LINK](https://bylickilabs.github.io/meta-code-generator)
 
 ---
 
